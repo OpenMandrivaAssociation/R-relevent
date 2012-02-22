@@ -9,10 +9,9 @@ Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
-Requires:         R-trust R-sna 
-Requires:         R-coda 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-trust R-sna
-BuildRequires:    R-coda 
+Requires:         R-trust R-sna R-coda
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-trust R-sna R-coda
 
 %description
 Tools to fit relational event models.
