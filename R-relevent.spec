@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          1.0
+Version:          1.0.2
 Release:          1
 Summary:          Relational Event Models
 Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/relevent_1.0-2.tar.gz
 Requires:         R-trust R-sna R-coda
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex
 BuildRequires:    R-trust R-sna R-coda
