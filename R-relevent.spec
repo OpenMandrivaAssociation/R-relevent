@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0.2
-Release:          1
+Release:          2
 Summary:          Relational Event Models
 Group:            Sciences/Mathematics
 License:          GPL-2
