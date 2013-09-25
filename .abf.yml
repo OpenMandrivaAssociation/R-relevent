@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   relevent_1.0-2.tar.gz: ed07eba8126070554462ff26bd010cafbaeca8f3
+sources:
+  relevent_1.0-3.tar.gz: 7382a645ec93f1729addff50a05f538afa5ecb9f
